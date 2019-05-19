@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="swipe_up_to_cancel_search" />
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="july_15">July 15</string>
+    <string name="_28">28°</string>
+    <string name="july_14">July 14</string>
+    <string name="_27">27°</string>
+    <string name="iasi">Iasi</string>
+    <string name="clearly">Clearly</string>
+    <string name="mostly_sunny">Mostly sunny</string>
+    <string name="switch_to_f">Switch to°F</string>
+    <string name="weather">Weather</string>
+    <string name="my_places">My places</string>
+    <string name="maps">Maps</string>
+    <string name="logout">Logout</string>
+    <string name="my_profile">My profile</string>
+    <string name="_30">30°</string>
+    <string name="july_13">july 13</string>
+    <string name="_29">29°</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="search_for_location">Search for location</string>
+    <string name="search">Search</string>
+    <string name="rainy">Rainy</string>
+    <string name="birthday">Birthday</string>
+    <string name="tomorrow">Tomorrow</string>
+</resources>
